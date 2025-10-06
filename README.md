@@ -14,15 +14,16 @@
 
 ---
 
-## 📊 آمار گیت‌هاب من
-![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanourani&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanourani&layout=compact&theme=tokyonight)
+### 🌐 راه‌های ارتباطی با من
+<p align="center">
+  <a href="https://github.com/Alirezanourish">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mealireza81">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
----
-
-## 📫 راه‌های ارتباطی
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alirezanourani00@gmail.com)
 
 ---
 
