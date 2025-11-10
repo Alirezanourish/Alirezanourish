@@ -1,9 +1,9 @@
-<!-- README: نسخه تاریک و مینیمال مخصوص علیرضا نورانی -->
+<!-- README داینامیک علیرضا نورانی -->
 
 <div align="center">
 
-# 🌑 علیرضا نورانی  
-🧑‍💻 توسعه‌دهنده‌ی وب | عاشق JavaScript، Vue.js و Node.js  
+# 👋 سلام! من علیرضا نورانی هستم  
+🧑‍💻 توسعه‌دهنده وب | عاشق JavaScript، Vue.js و Node.js  
 
 </div>
 
@@ -11,16 +11,34 @@
 
 ### 🧠 مهارت‌ها و تکنولوژی‌ها
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,git,github,linux,webstorm&theme=dark" />
 </p>
 
 ---
 
-### ⚙️ ابزارهای مورد علاقه
-- 💻 IDE: **WebStorm**
-- 🌐 کنترل نسخه: **Git / GitHub**
-- 🎨 علاقه‌مند به **UI/UX** و طراحی نرم‌افزارهای کاربرپسند
-- ☕ همیشه یه قهوه داغ کنارمه موقع کدنویسی
+### ⚙️ در حال یادگیری
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vitest-3178C6?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-2496ED?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VScode-222?style=for-the-badge&logo=vscode&logoColor=white" />
+</p>
+
+---
+
+### 📈 آمار گیت‌هاب من
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alirezanourish&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezanourish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezanourish&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🚀 آخرین فعالیت‌های من در گیت‌هاب
+<!-- این بخش خودکار از API گیت‌هاب به‌روزرسانی میشه -->
+<!-- برای فعال کردنش باید از GitHub Actions استفاده کنی -->
+<!-- نمونه پلاگین: https://github.com/marketplace/actions/github-activity-readme -->
+<!-- بعد از فعال‌سازی، خودش آخرین فعالیت‌هاتو (commit, issue, PR, fork, ...) نشون میده -->
 
 ---
 
@@ -39,25 +57,9 @@
 
 ---
 
-### ✨ درباره من
-> 🎯 هدفم ساخت ابزارهایی‌ه که زندگی دیجیتال رو آسون‌تر کنن.  
-> 🎶 موقع کدنویسی همیشه یه موزیک پس‌زمینه دارم.  
-> ☕ قهوه + تمرکز = خلاقیت بیشتر.  
-> 📚 عاشق یادگیری مداوم و تجربه‌های جدیدم.  
-
----
-
-### 📊 آمار گیت‌هاب من
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alirezanourish&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezanourish&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 <div align="center">
 
 ⭐️ اگر از پروژه‌هام خوشت اومد، یه ⭐️ بده تا حمایت کنی  
-مرسی که سر زدی 🙌
+مرسی که سر زدی 🙌  
 
 </div>
