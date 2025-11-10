@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Vitest-3178C6?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-2496ED?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VScode-222?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
