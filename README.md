@@ -11,7 +11,7 @@
 
 ### 🧠 مهارت‌ها و تکنولوژی‌ها
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,git,github,linux,webstorm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,git,github,linux&theme=dark" />
 </p>
 
 ---
